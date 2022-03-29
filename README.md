@@ -8,9 +8,6 @@
 --- Bootstrap
 --- Sass
 
-- 🌱 Estou aprendendo:
---React.js, Api, Gsap, Bootstrap
-
 <div align="center">
   <a href="https://github.com/Pedrolucasrv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrolucasrv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
