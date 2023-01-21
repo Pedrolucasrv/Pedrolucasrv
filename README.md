@@ -5,7 +5,7 @@
 --- React.js
 --- TypeScript
 -- Css
---- Bootstrap
+--- Tailwind
 --- Sass
 
 <div align="center">
